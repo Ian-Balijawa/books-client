@@ -12,9 +12,12 @@
     "@chakra-ui/react": "^1.8.8",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "apollo-boost": "^0.4.9",
     "framer-motion": "^6.3.3",
+    "graphql": "^16.4.0",
     "next": "12.1.6",
     "react": "18.1.0",
+    "react-apollo": "^3.1.5",
     "react-dom": "18.1.0",
     "react-icons": "^4.3.1"
   },
